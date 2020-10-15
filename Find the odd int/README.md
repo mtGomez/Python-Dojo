@@ -1,3 +1,4 @@
+## Link
 https://www.codewars.com/kata/54da5a58ea159efa38000836
 
 Given an array of integers, find the one that appears an odd number of times.
