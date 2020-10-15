@@ -10,10 +10,10 @@ Your job is to write a function modes() that will accept one argument data that 
 
 For example:
 
->>> modes("tomato")
+modes("tomato")
 ["o", "t"]
->>> modes([1, 3, 3, 7])
+modes([1, 3, 3, 7])
 [3]
->>> modes(["redder"])
+modes(["redder"])
 []
 You can trust that your input data will always be a sequence and will always contain orderable types (no inputs like [1, 2, 2, "a", "b", "b"]).
