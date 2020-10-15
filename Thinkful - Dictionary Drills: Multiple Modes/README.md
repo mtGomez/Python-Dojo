@@ -1,3 +1,4 @@
+## Link
 https://www.codewars.com/kata/586f5808aa04285bc800009d
 
 You probably know that the "mode" of a set of data is the data point that appears most frequently. Looking at the characters that make up the string "sarsaparilla" we can see that the letter "a" appears four times, more than any other letter, so the mode of "sarsaparilla" is "a".
@@ -8,7 +9,7 @@ Turns out that a set of data can, in fact, have multiple modes, so "tomato" has 
 
 Your job is to write a function modes() that will accept one argument data that is a sequence like a string or a list of numbers and return a sorted list containing the mode(s) of the input sequence. If data does not contain a mode you should return an empty list.
 
-For example:
+## For example:
 
 modes("tomato")
 ["o", "t"]
